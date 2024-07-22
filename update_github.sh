@@ -41,6 +41,7 @@ repository_current="/home/herton/Documentos"
 name_file=".git"
 
 
+
 # Use o comando find para procurar as pastas
 found_dir=$(find "$repository_current" -type d -name "$name_file" 2>/dev/null)
 
