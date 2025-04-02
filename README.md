@@ -6,7 +6,7 @@ Este simples script foi criado para quem precisa atualizar repositórios Git com
 
 ## 📸 Demonstração
 
-![Demonstração do script](img_script1)
+![Demonstração do script](https://github.com/hertonnn/scripts-utils/blob/a0d0e532feea1a45d91cf497096db680604e14d0/utils/update-git.gif)
 
 O script permite escolher qual repositório deseja atualizar e inserir uma mensagem de commit de forma rápida e prática.
 
